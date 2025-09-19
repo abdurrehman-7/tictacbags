@@ -1,2 +1,2 @@
 # tictacbags
-all kinds of bags stor
+All kinds of bags store
